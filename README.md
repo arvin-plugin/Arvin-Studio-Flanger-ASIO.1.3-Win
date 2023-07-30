@@ -1,6 +1,6 @@
 ## Arvin Studio Flanger ASIO
 
-![Flanger](capture/arvin-flanger.jpg)
+![Flanger](capture/arvin_flanger.PNG)
 
 Selamat datang di repositori Arvin Studio Flanger ASIO! Ini adalah plugin efek flanger yang dapat digunakan dengan lingkungan VST. Plugin ini memberikan efek flanger pada sinyal audio dengan tiga parameter kendali: Width (lebar), Speed (kecepatan), dan Intensity (intensitas).
 
